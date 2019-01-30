@@ -1,4 +1,42 @@
 {
+  "day":{
+    "weekEffort": {
+		"expected": "40:00",
+		"reported": "27:45"
+	},
+	"dayEffort": {
+		"expected": "08:00",
+		"reported": "07:45"
+	},
+	"date": "2012-04-23T18:25:43.511Z",
+	"efforts": [{
+			"key": "1",
+			"effort": "00:15",
+			"project": {
+				"key": "{EC50FD08-C5F1-41D6-81D6-FDDC3A18876E}",
+				"name": "116519001 / STIHL | DL | B2X Plattform 2019"
+			},
+			"workPackage": {
+				"key": "{418E2575-4070-4039-A00C-76D0E751D3C8}",
+				"name": "2.1 ...\\Not Billable\\Not billable | Travel Times"
+			},
+			"message": "Daily Meeting"
+		},
+		{
+			"key": "2",
+			"effort": "07:30",
+			"project": {
+				"key": "{EC50FD08-C5F1-41D6-81D6-FDDC3A18876E}",
+				"name": "116519001 / STIHL | DL | B2X Plattform 2019"
+			},
+			"workPackage": {
+				"key": "{418E2575-4070-4039-A00C-76D0E751D3C8}",
+				"name": "2.1 ...\\Not Billable\\Not billable | Travel Times"
+			},
+			"message": "Client Meeting"
+		}
+	]
+},
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
